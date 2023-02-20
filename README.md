@@ -61,6 +61,14 @@ This repo includes:
       <li><a href='https://github.com/thatsabhishek/Coding_Ninjas-Python_Fundamentals/blob/main/Milestone%201/More%20on%20Loops/Printthepattern.py'>Print the pattern</li>
     </ul> 
     
+  <li><a href='https://github.com/thatsabhishek/Coding_Ninjas-Python_Fundamentals/tree/main/Milestone%202/Functions'>Functions</li>
+    <ul>
+      <li><a href='https://github.com/thatsabhishek/Coding_Ninjas-Python_Fundamentals/blob/main/Milestone%202/Functions/FahrenheittoCelsiusFunction.py'>Fahrenheit to Celsius</li>
+      <li><a href='https://github.com/thatsabhishek/Coding_Ninjas-Python_Fundamentals/blob/main/Milestone%202/Functions/FibonacciMember.py'>Fibonacci Member</li>
+      <li><a href='https://github.com/thatsabhishek/Coding_Ninjas-Python_Fundamentals/blob/main/Milestone%202/Functions/Palindromenumber.py'>Palindrome number</li>
+      <li><a href='https://github.com/thatsabhishek/Coding_Ninjas-Python_Fundamentals/blob/main/Milestone%202/Functions/CheckArmstrong.py'>Check Armstrong</li>
+    </ul>
+    
     
 <h1>Coding Ninja
 <h2>Please rate my repo
