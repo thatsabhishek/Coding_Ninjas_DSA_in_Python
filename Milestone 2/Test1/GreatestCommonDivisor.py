@@ -15,6 +15,7 @@ def findGcd(x, y):
         x, y = y, x % y
     return x
 
+# this part of the code not used in the coding ninja compiler.
 t=int(input())
 while t!=0:
     x,y=input().split()
