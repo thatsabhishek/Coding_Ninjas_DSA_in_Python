@@ -32,6 +32,7 @@ def ninjaPuzzle(n):
         i=i+1
     return 0
 
+# this part of the code not used in the coding ninja compiler.
 t=int(input())
 while t !=0 :
     n = int(input())
