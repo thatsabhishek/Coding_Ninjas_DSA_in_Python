@@ -70,6 +70,11 @@ This repo includes:
     </ul>
     
   <li><a herf='https://github.com/thatsabhishek/Coding_Ninjas-Python_Fundamentals/tree/main/Milestone%202/Test1'>Test 1</li>
+    <ul>
+      <li><a href='https://github.com/thatsabhishek/Coding_Ninjas-Python_Fundamentals/blob/main/Milestone%202/Test1/NumberStarpattern1.py'>Number Star Pattern 1</li>
+      <li><a href='https://github.com/thatsabhishek/Coding_Ninjas-Python_Fundamentals/blob/main/Milestone%202/Test1/YetanotherPattern.py'>Yet Another Pattern</li>
+      <li><a href='https://github.com/thatsabhishek/Coding_Ninjas-Python_Fundamentals/blob/main/Milestone%202/Test1/GreatestCommonDivisor.py'>Greatest Common Divisor</li>
+    </ul>
     
 <h1>Coding Ninja
 <h2>Please rate my repo
