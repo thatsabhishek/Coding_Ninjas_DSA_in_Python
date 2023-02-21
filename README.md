@@ -69,6 +69,7 @@ This repo includes:
       <li><a href='https://github.com/thatsabhishek/Coding_Ninjas-Python_Fundamentals/blob/main/Milestone%202/Functions/CheckArmstrong.py'>Check Armstrong</li>
     </ul>
     
+  <li><a herf='https://github.com/thatsabhishek/Coding_Ninjas-Python_Fundamentals/tree/main/Milestone%202/Test1'>Test 1</li>
     
 <h1>Coding Ninja
 <h2>Please rate my repo
