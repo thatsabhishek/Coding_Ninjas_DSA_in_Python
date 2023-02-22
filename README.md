@@ -78,9 +78,7 @@ This repo includes:
    
   <li><a href='https://github.com/thatsabhishek/Coding_Ninjas-Python_Fundamentals/tree/main/Milestone%202/Arrays%20%26%20Lists'>Array & Lists</li>
     <ul>
-      <li><a href='https://github.com/thatsabhishek/Coding_Ninjas-Python_Fundamentals/blob/main/Milestone%202/Test1/NumberStarpattern1.py'>Number Star Pattern 1</li>
-      <li><a href='https://github.com/thatsabhishek/Coding_Ninjas-Python_Fundamentals/blob/main/Milestone%202/Test1/YetanotherPattern.py'>Yet Another Pattern</li>
-      <li><a href='https://github.com/thatsabhishek/Coding_Ninjas-Python_Fundamentals/blob/main/Milestone%202/Test1/GreatestCommonDivisor.py'>Greatest Common Divisor</li>
+      <li><a href='https://github.com/thatsabhishek/Coding_Ninjas-Python_Fundamentals/blob/main/Milestone%202/Arrays%20%26%20Lists/ArraySum.py'>Array Sum</li>
     </ul>
     
 <h1>Coding Ninja
