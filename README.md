@@ -79,7 +79,13 @@ This repo includes:
   <li><a href='https://github.com/thatsabhishek/Coding_Ninjas-Python_Fundamentals/tree/main/Milestone%202/Arrays%20%26%20Lists'>Array & Lists</li>
     <ul>
       <li><a href='https://github.com/thatsabhishek/Coding_Ninjas-Python_Fundamentals/blob/main/Milestone%202/Arrays%20%26%20Lists/ArraySum.py'>Array Sum</li>
+      <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/Arrays%20%26%20Lists/Swapalternate.py'>Swap Alternate</li>
+      <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/Arrays%20%26%20Lists/FindUnique.py'>Find Unique</li>
+      <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/Arrays%20%26%20Lists/FindDuplicate.py'>Find Duplicate</li>
+      <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/Arrays%20%26%20Lists/IntersectionofTwoArrays.py'>Intersection of Two Array</li>
+      <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/Arrays%20%26%20Lists/PairSum.py'>Pair Sum</li>
+      <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/Arrays%20%26%20Lists/TripletSum.py'>Triplet Sum</li>
+      <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/Arrays%20%26%20Lists/Sort01.py'>Sort 0 1</li>
     </ul>
     
 <h1>Coding Ninja
-<h2>Please rate my repo
