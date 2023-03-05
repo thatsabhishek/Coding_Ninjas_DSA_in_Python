@@ -89,8 +89,8 @@ This repo includes:
     </ul>
     
     <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/tree/main/Milestone%202/Searching%20%26%20Sorting'>Searching & Sorting</li>
-    <ul>
-      <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/Searching%20%26%20Sorting/CodeBinarySearch.py'>Code Binary Search</li>
-    </ul>
+      <ul>
+        <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/Searching%20%26%20Sorting/CodeBinarySearch.py'>Code Binary Search</li>
+      </ul>
 
 <h1>Coding Ninja
