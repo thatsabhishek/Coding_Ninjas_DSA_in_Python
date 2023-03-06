@@ -1,19 +1,16 @@
-# Provided with a random integer array/list(ARR) of size N, you have been required to sort this array using 'Selection Sort'.
+# Provided with a random integer array/list(ARR) of size N, you have been required to sort this array using 'Bubble Sort'.
 
 from sys import stdin
 
-def selectionSort(arr, n) :
+def bubbleSort(arr, n) :
     #Your code goes here
     for i in range(n):
-        small = arr[i]
-        loc = i
-        for j in range(i+1, n):
-            if arr[j] < small:
-                small = arr[j]
-                loc = j
-        arr[i], arr[loc] = arr[loc], arr[i]
+        for p in range(n-i-1):
+            if arr[p+1] < arr[p]:
+                arr[p], arr[p+1] = arr[p+1], arr[p]
 
     return arr
+
 
 #Taking Input Using Fast I/O
 def takeInput() :
@@ -38,7 +35,7 @@ t = int(stdin.readline().strip())
 while t > 0 :
     
     arr, n = takeInput()
-    selectionSort(arr, n)
+    bubbleSort(arr, n)
     printList(arr, n)
 
     t-= 1

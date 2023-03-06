@@ -92,6 +92,8 @@ This repo includes:
     <ul>
       <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/Searching%20%26%20Sorting/CodeBinarySearch.py'>Code Binary Search</li>
       <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/Searching%20%26%20Sorting/SelectionSort.py'>Code Selection Sort</li>
+      <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/Searching%20%26%20Sorting/BubbleSort.py'>Code Bubble Sort</li>
+      <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/Searching%20%26%20Sorting/InsertionSort.py'>Code Insertion Sort</li>
     </ul>
 
 <h1>Coding Ninja

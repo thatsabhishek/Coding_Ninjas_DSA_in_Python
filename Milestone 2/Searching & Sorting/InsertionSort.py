@@ -1,18 +1,16 @@
-# Provided with a random integer array/list(ARR) of size N, you have been required to sort this array using 'Selection Sort'.
+# Provided with a random integer array/list(ARR) of size N, you have been required to sort this array using 'Insertion Sort'.
 
 from sys import stdin
 
-def selectionSort(arr, n) :
+def insertionSort(arr, n) :  
     #Your code goes here
-    for i in range(n):
-        small = arr[i]
-        loc = i
-        for j in range(i+1, n):
-            if arr[j] < small:
-                small = arr[j]
-                loc = j
-        arr[i], arr[loc] = arr[loc], arr[i]
-
+    for i in range(1, n):
+        temp = arr[i]
+        j = i-1
+        while temp < arr[j] and j >= 0:
+            arr[j+1] = arr[j]
+            j -= 1
+        arr[j+1] = temp
     return arr
 
 #Taking Input Using Fast I/O
@@ -29,6 +27,7 @@ def takeInput() :
 def printList(arr, n) : 
     for i in range(n) :
         print(arr[i], end = " ")
+        
     print()
 
 
@@ -38,7 +37,7 @@ t = int(stdin.readline().strip())
 while t > 0 :
     
     arr, n = takeInput()
-    selectionSort(arr, n)
+    insertionSort(arr, n)
     printList(arr, n)
 
     t-= 1
