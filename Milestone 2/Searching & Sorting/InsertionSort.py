@@ -1,5 +1,10 @@
 # Provided with a random integer array/list(ARR) of size N, you have been required to sort this array using 'Insertion Sort'.
 
+# Input format :
+# The first line contains an Integer 't' which denotes the number of test cases or queries to be run. Then the test cases follow.
+# First line of each test case or query contains an integer 'N' representing the size of the array/list.
+# Second line contains 'N' single space separated integers representing the elements in the array/list.
+
 from sys import stdin
 
 def insertionSort(arr, n) :  

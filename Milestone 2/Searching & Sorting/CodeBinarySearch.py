@@ -3,6 +3,11 @@
 # Return the index of the element in the input array/list. 
 # If the element is not present in the array/list, then return -1.
 
+# Input format :
+# The first line contains an Integer 'N', which denotes the size of the array/list.
+# The second line contains 'N' single space-separated integers representing the elements in the array/list.
+# The third line contains the value of X to be searched for in the array/list.
+
 from typing import *
 
 def binarySearch(arr : List[int], n : int, x : int) :
