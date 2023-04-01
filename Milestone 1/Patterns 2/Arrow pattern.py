@@ -29,10 +29,7 @@ d = n-c
 while i <= n-c:
     sp = 1
     while sp < d:
-        if sp%2==0:
-            continue
-        else:
-            print(' ', end='')
+        print(' ', end='')
         sp = sp+1
     j = 1
     while j <= d:
