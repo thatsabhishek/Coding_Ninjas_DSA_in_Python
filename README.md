@@ -100,3 +100,4 @@ This repo includes:
     </ul>
 
 <h1>Coding Ninja
+<h2>Rate my Repo ⭐ !!!
