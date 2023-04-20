@@ -5,7 +5,14 @@
 #            F(2) = 1
 # Provided N you have to find out the Nth Fibonacci Number.
 
-def fact(n):
+from math import *
+from collections import *
+from sys import *
+from os import *
+
+## Read input as specified in the question.
+## Print output as specified in the question.
+def fib(n):
     if n==1:
         return 1
     elif n==2:
@@ -16,10 +23,10 @@ def fact(n):
         b = 1
         while n-1 != 0:
             sum += a
-            a = b
-            b = sum
+            a, b = b, sum
             n=n-1
         return sum
     
 n = int(input())
-print(fact(n))
+print(fib(n))
+

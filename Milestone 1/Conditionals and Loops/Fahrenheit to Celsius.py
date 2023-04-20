@@ -6,7 +6,7 @@ S = int(input())
 E = int(input())
 W = int(input())
 
-while E >= S:
+while S <= E:
     c = (5*(S-32))/9
     d = int(c)
     print(S, d)
