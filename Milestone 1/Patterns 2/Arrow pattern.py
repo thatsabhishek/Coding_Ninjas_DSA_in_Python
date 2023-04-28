@@ -12,29 +12,29 @@
 
 n = int(input())
 i = 1
-c = int(n/2) + 1
-while i <= c:
+inc = int(n/2) + 1
+while i <= inc:
     sp = 1
-    while sp < 2*i-2:
+    while sp < i:
         print(' ', end='')
         sp = sp+1
     j = 1
     while j <= i:
         print('* ', end='')
-        j = j+1
+        j = j+1 
     print()
     i = i+1
 i = 1
-d = n-c
-while i <= n-c:
+dec = n-inc
+while i <= n-inc:
     sp = 1
-    while sp < d:
+    while sp < dec:
         print(' ', end='')
         sp = sp+1
     j = 1
-    while j <= d:
+    while j <= dec:
         print('* ', end='')
         j = j+1
     print()
     i = i+1
-    d = d-1
+    dec = dec-1

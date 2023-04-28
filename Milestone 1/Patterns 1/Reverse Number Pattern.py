@@ -8,9 +8,9 @@
 N = int(input())
 i = 1
 while i <= N:
-    j = i
-    while j >= 1:
-        print(j, end='')
-        j = j-1
+    j = 1
+    while j <= i:
+        print(i-j+1, end='')
+        j = j+1
     print()
     i = i+1

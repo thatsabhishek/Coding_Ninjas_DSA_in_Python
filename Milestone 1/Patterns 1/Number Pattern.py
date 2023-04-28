@@ -6,11 +6,11 @@
 # 1
 
 N = int(input())
-i = N
-while i >= 1:
+i = 1
+while i <= N:
     j = 1
-    while j <= i:
+    while j <= N-i+1:
         print(j, end='')
         j = j+1
     print()
-    i = i-1
+    i = i+1

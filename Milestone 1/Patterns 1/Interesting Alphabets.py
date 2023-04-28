@@ -12,7 +12,8 @@ while i <= N:
     j = 1
     k = i
     while j <= i:
-        print(chr(65+N-k), end='')
+        ch = chr(ord('A')+N-k)
+        print(ch, end='')
         k = k-1
         j = j+1
     print()
