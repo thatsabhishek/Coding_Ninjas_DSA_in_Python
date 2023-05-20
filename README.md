@@ -97,6 +97,9 @@ This repo includes:
       <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/Searching%20%26%20Sorting/Mergetwosortedarray.py'>Code Merge Two Sorted Arrays</li>
       <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/Searching%20%26%20Sorting/Pushzerostoend.py'>Push Zeros to end</li>
       <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/Searching%20%26%20Sorting/Rotatearray.py'>Rotate Array</li>
+      <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/Searching%20%26%20Sorting/CheckArrayRotation.py'>Check Array Rotation</li>
+      <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/Searching%20%26%20Sorting/Sort012.py'>Sort 0 1 2</li>
+      <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/Searching%20%26%20Sorting/SumofTwoArrays.py'>Sum of Two Arrays</li>
     </ul>
 
 <h1>Coding Ninja
