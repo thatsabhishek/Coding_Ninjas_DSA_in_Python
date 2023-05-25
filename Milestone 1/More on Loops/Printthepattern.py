@@ -6,32 +6,19 @@
 #  16   17  18   19  20
 #  6    7    8   9   10
 
-def pattern(n):
-    mid = (n >> 1)
-    if n & 1 != 0:
-        mid += 1
-    val = 1
-    for i in range(mid):
-        for j in range(val, val + n):
-            print(j, end=' ')
-        print()
-        val += (n << 1)
-    if n & 1 != 0:
-        val -= (n << 1)
-        val -= n
-        for i in range(mid, n):
-            for j in range(val, val + n):
-                print(j, end=' ')
-            print()
-            val -= (n << 1)
-    else:
-        val -= n
-        for i in range(mid, n):
-            for j in range(val, val + n):
-                print(j, end=' ')
-            print()
-            val -= (n << 1)
-
-
 n = int(input())
-pattern(n)
+start = 1
+
+for i in range(1,n+1):
+    for j in range(start, start+n):
+        print(j, end=' ')
+    print()
+    if i==((n+1)//2):
+        if n%2 != 0:
+            start = n*(n-2)+1
+        else:
+            start = n*(n-1)+1
+    elif i>(n+1)//2:
+        start = start - 2*n
+    else:
+        start = start + 2*n

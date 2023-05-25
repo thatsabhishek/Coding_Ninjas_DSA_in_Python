@@ -8,29 +8,31 @@
 #    *
 
 n = int(input())
-i = 1
-s = (n+1)/2
-while i <= s:
+u = n//2+1
+i=1
+while i<=u:
     sp = 1
-    while sp <= s-i:
+    while sp<=u-i:
         print(' ', end='')
-        sp = sp+1
+        sp+=1
     j = 1
     while j <= 2*i-1:
-        print('*', end='')
-        j = j+1
-    print()
-    i = i+1
-i = s-1
-m = i
-while i >= 1:
-    j = 1
-    while j <= m-i+1:
-        print(' ', end='')
-        j = j+1
-    k = 1
-    while k <= 2*i-1:
         print("*", end='')
-        k = k+1
+        j+=1
     print()
-    i = i-1
+    i+=1
+
+l = n-u
+i=1
+while i <= n-u:
+    sp = 1
+    while sp <= i:
+        print(' ', end='')
+        sp+=1
+    j = 1
+    while j <= 2*l-1:
+        print("*", end='')
+        j+=1
+    print()
+    i+=1
+    l-=1 
