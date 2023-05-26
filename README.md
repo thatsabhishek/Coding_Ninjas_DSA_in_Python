@@ -1,4 +1,4 @@
-# Coding_Ninjas-Python_Fundamentals
+# Coding_Ninjas-DSA_in_Python
 This repo includes all python problems for Coding Ninja DSA in Python course. Please give a star in this repo if you like it.
 
 This repo includes:
