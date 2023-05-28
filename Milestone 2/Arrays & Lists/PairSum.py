@@ -7,12 +7,10 @@ from sys import stdin
 def pairSum(arr, n, x) :
     #Your code goes here
     count = 0
-    i = 0
-    while i < n:
+    for i in range(n):
         for j in range(i+1,n):
             if arr[i]+arr[j] == x:
                 count += 1
-        i += 1
     return count
 
 #Taking Input Using Fast I/O

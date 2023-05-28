@@ -12,7 +12,7 @@ def intersections(arr1, n, arr2, m) :
         for j in range(len(arr2)):
             if arr1[i] == arr2[j]:
                 print(arr1[i], end=' ')
-                arr2[j] = -1
+                arr2[j] = -1 # arr2[j] = sys.maxsize
                 break
 
 
