@@ -102,5 +102,16 @@ This repo includes:
       <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/Searching%20%26%20Sorting/SumofTwoArrays.py'>Sum of Two Arrays</li>
     </ul>
 
+    <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/tree/main/Milestone%202/strings'>Strings</li>
+    <ul>
+      <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/Searching/strings/CheckPalindrome.py'>Check Palindrome</li>
+      <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/Searching/strings/CheckPermutation.py'>Check Permutation</li>
+      <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/Searching/strings/RemoveConsecutiveDuplicates.py'>Remove Consecutive Duplicates</li>
+      <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/Searching/strings/ReverseEachWord.py'>Reverse Each Word</li>
+      <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/Searching/strings/Removecharacter.py'>Remove character</li>
+      <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/Searching/strings/HighestOccuringCharacter.py'>Highest Occuring Character</li>
+      <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/Searching/strings/CompresstheString.py'>Compress the String</li>
+    </ul>
+
 <h1>Coding Ninja
 <h2>Rate my Repo ⭐ !!!
