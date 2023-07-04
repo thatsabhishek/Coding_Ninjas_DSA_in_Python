@@ -102,7 +102,7 @@ This repo includes:
       <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/Searching%20%26%20Sorting/SumofTwoArrays.py'>Sum of Two Arrays</li>
     </ul>
 
-    <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/tree/main/Milestone%202/strings'>Strings</li>
+  <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/tree/main/Milestone%202/strings'>Strings</li>
     <ul>
       <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/Searching/strings/CheckPalindrome.py'>Check Palindrome</li>
       <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/Searching/strings/CheckPermutation.py'>Check Permutation</li>
