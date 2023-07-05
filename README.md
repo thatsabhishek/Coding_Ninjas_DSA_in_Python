@@ -120,6 +120,13 @@ This repo includes:
       <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/TwoDimensionalLists/WavePrint.py'>Wave Print</li>
       <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/TwoDimensionalLists/SpiralPrint.py'>Spiral Print</li>
     </ul>
+    
+  <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/tree/main/Milestone%202/Test2'>Test 2</li>
+    <ul>
+      <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/Test2/Print2DArray.py'>Print 2D Array</li>
+      <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/Test2/MinimumLengthWord.py'>Minimum Length Word</li>
+      <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/Test2/Leadersinarray.py'>Leaders in array</li>
+    </ul>
 
 <h1>Coding Ninja
 <h2>Rate my Repo ⭐ !!!
