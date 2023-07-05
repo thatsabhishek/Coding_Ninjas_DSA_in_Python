@@ -113,5 +113,13 @@ This repo includes:
       <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/strings/CompresstheString.py'>Compress the String</li>
     </ul>
 
+  <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/tree/main/Milestone%202/TwoDimensionalLists'>Two Dimensional Lists</li>
+    <ul>
+      <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/TwoDimensionalLists/RowWiseSum.py'>Row Wise Sum</li>
+      <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/TwoDimensionalLists/LargestRoworColumn.py'>Largest Row or Column</li>
+      <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/TwoDimensionalLists/WavePrint.py'>Wave Print</li>
+      <li><a href='https://github.com/thatsabhishek/Coding_Ninjas_Python_Fundamentals/blob/main/Milestone%202/TwoDimensionalLists/SpiralPrint.py'>Spiral Print</li>
+    </ul>
+
 <h1>Coding Ninja
 <h2>Rate my Repo ⭐ !!!
