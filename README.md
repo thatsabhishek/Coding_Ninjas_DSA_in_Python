@@ -96,5 +96,13 @@ This repo includes:
     - [Minimum Length Word](./Milestone%202/Test2/MinimumLengthWord.py)
     - [Leaders in array](./Milestone%202/Test2/Leadersinarray.py)
 
+- [Milestone 3](./milestone3/)
+  - [Recursion 1](./milestone3/recursion1/)
+    - [Power of A Number](./milestone3/recursion1/PowerOfANumber.py)
+    - [Sum of Array](./milestone3/recursion1/SumOfArray.py)
+    - [Check Number in Array](./milestone3/recursion1/CheckNumberinArray.py)
+    - [First Index of Number](./milestone3/recursion1/FirstIndexofNumber.py)
+    - [Last Index Of Number](./milestone3/recursion1/LastIndexOfNumber.py)
+
 <h1>Coding Ninja
 <h2>Rate my Repo ⭐ !!!
