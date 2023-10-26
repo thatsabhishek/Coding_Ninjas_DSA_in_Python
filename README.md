@@ -103,6 +103,12 @@ This repo includes:
     - [Check Number in Array](./milestone3/recursion1/CheckNumberinArray.py)
     - [First Index of Number](./milestone3/recursion1/FirstIndexofNumber.py)
     - [Last Index Of Number](./milestone3/recursion1/LastIndexOfNumber.py)
+  - [Recursion 2](./milestone3/recursion2/)
+    - [Remove X](./milestone3/recursion2/RemoveX.py)
+    - [Remove Duplicates Recursively](./milestone3/recursion2/RemoveDuplicatesRecursively.py)
+    - [Merge Sort Code](./milestone3/recursion2/MergeSortCode.py)
+    - [Quick Sort Code](./milestone3/recursion2/QuickSortCode.py)
+    - [Tower of Hanoi - Problem](./milestone3/recursion2/TowerOfHanoiProblem.py)
 
 <h1>Coding Ninja
 <h2>Rate my Repo ⭐ !!!
