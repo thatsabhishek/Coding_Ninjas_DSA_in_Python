@@ -109,6 +109,16 @@ This repo includes:
     - [Merge Sort Code](./milestone3/recursion2/MergeSortCode.py)
     - [Quick Sort Code](./milestone3/recursion2/QuickSortCode.py)
     - [Tower of Hanoi - Problem](./milestone3/recursion2/TowerOfHanoiProblem.py)
+  - [Recursion Assignment](./milestone3/RecursionAssignment/)
+    - [Geometric Sum](./milestone3/RecursionAssignment/geometricsum.py)
+    - [Check Palindrome(Recursive)](./milestone3/RecursionAssignment/checkpalindrome.py)
+    - [Sum of Digits(Recursive)](./milestone3/RecursionAssignment/sumofdigits.py)
+    - [Multiplication(Recursive)](./milestone3/RecursionAssignment/multiplication.py)
+    - [Count Zeros](./milestone3/RecursionAssignment/countzeros.py)
+    - [String to Integer](./milestone3/RecursionAssignment/stringtointeger.py)
+    - [Pair Star](./milestone3/RecursionAssignment/pairstar.py)
+    - [Check AB](./milestone3/RecursionAssignment/checkab.py)
+    - [Stair Case](./milestone3/RecursionAssignment/staircase.py)
 
 <h1>Coding Ninja
 <h2>Rate my Repo ⭐ !!!
