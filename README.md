@@ -119,6 +119,10 @@ This repo includes:
     - [Pair Star](./milestone3/RecursionAssignment/pairstar.py)
     - [Check AB](./milestone3/RecursionAssignment/checkab.py)
     - [Stair Case](./milestone3/RecursionAssignment/staircase.py)
+  - [Test 1](./milestone3/test1/)
+    - [Does string 's' contain string 't'?](./milestone3/test1/stringscontaint.py)
+    - [Maximum profit on App](./milestone3/test1/maxprofitonapp.py)
+    - [Split Array](./milestone3/test1/splitarray.py)
 
 <h1>Coding Ninja
 <h2>Rate my Repo ⭐ !!!
